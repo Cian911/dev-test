@@ -1,4 +1,4 @@
-# ${1:Project Name}
+# Storyful Developer Test
 Developer Test - Cian Gallagher
 
 ## Installation
