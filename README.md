@@ -5,6 +5,7 @@ Developer Test - Cian Gallagher
  - Requirements (node.js)
  - Clone Project
  - `cd` to cloneed directory
+ - Type `npm install` to install required node modules
 
 ## Usage
  - Type `node index.js` from cli to run solution
